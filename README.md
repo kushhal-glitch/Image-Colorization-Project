@@ -1,7 +1,5 @@
 ## Colorizing Black and White Images
-
-https://github.com/rimo10/Image-Colorization-Project/assets/70977847/ca1677a4-55aa-4f03-a641-bde835a30d2c
-
+https://github.com/rimo10/Image-Colorization-Project/assets/70977847/5b3fa0c8-9c20-46f6-a518-6180d69f0305
 ## Tech Stack
 * [PyTorch ](https://pytorch.org/) for Model Training <br>
 * [Streamlit ](https://streamlit.io/) for making the web Application
@@ -48,7 +46,7 @@ You can use the pretrained weights avialable under `models` folder. Or if you wa
  Happy Colorization!! 
  
  ## References
- Paper: [Deep Koalarization ](https://paperswithcode.com/paper/deep-koalarization-image-colorization-using)
+ Paper: [Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2 ](https://arxiv.org/pdf/1712.03400v1.pdf)
  
 ## License
 All rights reserved under MIT License
