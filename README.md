@@ -41,9 +41,9 @@ You can use the pretrained weights avialable under `models` folder. Or if you wa
  ## To Run the Web App
  1. Clone the repo `git clone https://github.com/rimo10/Image-Colorization-Project.git`
  2. If you don't have streamlit installed then `pip install streamlit`
- 3.  Go to the root directory of project and run `streamlit run -main.py` in the terminal . This will open an interactive web application.
+ 3.  Go to the root directory of project and run `streamlit run -main.py` in the terminal . This will open an interactive web application. Now drag and drop and see the Magic
  <br>
- Happy Colorization!! 
+ Happy Colorization :hugs: !! 
  
  ## References
  Paper: [Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2 ](https://arxiv.org/pdf/1712.03400v1.pdf)
