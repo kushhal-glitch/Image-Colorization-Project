@@ -15,7 +15,9 @@ hide_st_style = """
             </style>
             """
 
-st.markdown("<h1 style='text-align: center;'>Image Colorizer</h1>",hide_st_style,
+st.markdown("<h1 style='text-align: center;'>Image Colorizer</h1>",
+            unsafe_allow_html=True)
+st.markdown(hide_st_style,
             unsafe_allow_html=True)
 opt = st.sidebar.selectbox("Choose Image Type", [
                            "Landscape", "Person", "Animals", "Flowers"])
